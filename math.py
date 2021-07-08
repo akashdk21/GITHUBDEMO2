@@ -16,4 +16,4 @@ def divide(x,y):
         return x/y
 #square fn
 def square(x):
-    pass
+    return x*x
