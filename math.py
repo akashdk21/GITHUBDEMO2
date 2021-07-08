@@ -16,5 +16,10 @@ def divide(x,y):
         return x/y
 #square fn
 def square(x):
+<<<<<<< HEAD
     z=x*x
     return z
+=======
+    c=x*x
+    return c
+>>>>>>> square fn c added
